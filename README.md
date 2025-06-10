@@ -1,1 +1,2 @@
-Petit repo avec quelques codes 
+Petit repo avec quelques codes.
+J'aime bien l'informatique.
